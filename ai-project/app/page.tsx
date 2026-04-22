@@ -69,7 +69,7 @@ export default function Home() {
       <div className="relative mx-auto flex min-h-screen w-full max-w-6xl flex-col px-6 py-8 sm:px-10 lg:px-12">
         <header className="flex items-center justify-between rounded-full border border-white/10 bg-white/[0.05] px-5 py-3 backdrop-blur-xl">
           <div className="text-sm font-medium tracking-[0.2em] text-zinc-200 uppercase">
-            YOUR NEW PROJECT NAME
+            My AI Startup
           </div>
           <nav className="hidden gap-6 text-sm text-zinc-400 md:flex">
             <a href="#about" className="transition-colors duration-300 hover:text-white">
@@ -106,7 +106,7 @@ export default function Home() {
           </div>
           <h1 className="mt-8 max-w-5xl text-6xl font-bold tracking-[-0.05em] text-white sm:text-7xl lg:text-[6.6rem] lg:leading-[0.92]">
             <span className="bg-gradient-to-r from-blue-200 via-cyan-200 to-violet-300 bg-clip-text text-transparent">
-              YOUR NEW PROJECT NAME
+              My AI Startup
             </span>
           </h1>
           <p className="mt-8 max-w-xl text-base leading-8 text-zinc-400 sm:text-lg">
@@ -178,7 +178,7 @@ export default function Home() {
                 <div className="absolute inset-0 rounded-[1.75rem] bg-[linear-gradient(145deg,rgba(255,255,255,0.06),transparent_30%,transparent_70%,rgba(99,102,241,0.14))] opacity-80" />
                 <div className="absolute inset-px rounded-[1.7rem] border border-white/5" />
                 <p className="relative max-w-xl text-base leading-8 text-zinc-300">
-                  AI Vision Studio explores intelligent systems through
+                  My AI Startup explores intelligent systems through
                   analytics, technical architecture, and disciplined product
                   thinking. The goal is to turn ambitious concepts into clear,
                   practical solutions designed for long-term scale.
@@ -316,7 +316,7 @@ export default function Home() {
         <footer className={`relative py-10 ${fadeUp}`}>
           <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
           <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-            <p className="text-sm font-medium text-white">YOUR NEW PROJECT NAME</p>
+            <p className="text-sm font-medium text-white">My AI Startup</p>
             <p className="max-w-xl text-sm text-zinc-500">
               Intelligent systems, analytics, and future-ready product thinking.
             </p>
